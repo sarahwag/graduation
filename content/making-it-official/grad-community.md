@@ -2,7 +2,6 @@
 title: "Grad Community"
 typeform: true
 weight: 5
-disableNextPrev: true
 ---
 
 Last last thing: we don't want our discourse to end with the course ending. 
@@ -15,7 +14,7 @@ This (non-anonymous) form asks for your username, which we'll use as a thumbs up
 
 <center><small>**Do you want us to change your status from student to grad in the Community?**</small></center>
 
-<div class="entry-nav nav" style="justify-content: center">
-<a href="https://hues.typeform.com/to/EA1H23" style="margin-right: 2em;" class="reply-link btn btn-cta pulse typeform-share" target="_blank" title="Yes, I want a certificate" data-mode="drawer_right" data-submit-close-delay="2" data-no-instant>Yes, please.</a>
+<div class="entry-nav nav" style="font-size: 1.3em; justify-content: center">
+<a href="https://hues.typeform.com/to/EA1H23" style="margin-right: 1rem;" class="reply-link btn btn-cta pulse typeform-share" target="_blank" title="Yes, I want a certificate" data-mode="drawer_right" data-submit-close-delay="2" data-no-instant>Yes, please.</a>
 <a href="../the-beginning" class="btn" title="No, thank you.">No, thank you.</a>
 </div>
