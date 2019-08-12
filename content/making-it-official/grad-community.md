@@ -17,5 +17,5 @@ This (non-anonymous) form asks for your username, which we'll use as a thumbs up
 
 <div class="entry-nav nav" style="justify-content: center">
 <a href="https://hues.typeform.com/to/EA1H23" style="margin-right: 2em;" class="reply-link btn btn-cta pulse typeform-share" target="_blank" title="Yes, I want a certificate" data-mode="drawer_right" data-submit-close-delay="2" data-no-instant>Yes, please.</a>
-<a href="../microcommunity-matchmaking" class="btn" title="No, thank you.">No, thank you.</a>
+<a href="../the-beginning" class="btn" title="No, thank you.">No, thank you.</a>
 </div>
