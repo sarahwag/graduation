@@ -1,0 +1,20 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+title = "Graduation"
+theme = "teach"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+relativeURLs = true
+
+[params]
+	editURL = "https://github.com/sjmd/graduation/tree/master/content/"
+	helpURL = "https://sjmd.space/help"
+	description = "Social Justice, Minus Dogma Course + Community"
+	author = "SJMD"
+	showVisitedLinks = true
+	disableBreadcrumb = false
+	disableNextPrev = false
+	themeVariant = "grey"
+
+[outputs]
+	home = [ "HTML", "RSS", "JSON"]
