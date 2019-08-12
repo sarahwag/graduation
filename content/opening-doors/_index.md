@@ -1,13 +1,13 @@
 ---
 title: "Opening Doors"
 chapter: true
-weight: 3
+weight: 2
 ---
 
 ### Graduation
 
 # Opening Doors
 
-"When one door closes, another five to seven doors open. And that first door doesn't even have to close for that to be true!"
+"When one door closes, another three or four doors open. And that first door didn't even technically actually close. Cool, right?"
 
 <center>&mdash; SJMD</center>

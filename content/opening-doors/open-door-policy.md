@@ -7,4 +7,4 @@ We're like that cool college professor whose office hours were "Whenevs: I have 
 
 But because our doors are websites, it doesn't matter that we're _never actually in our office_. There are no locks, and there's no need for you to wait in the hall for several hours. Cool.
 
-Now, let us tell you about some new doors that are going to be open for you.
+We already covered how you'll still have access to the course. Now, let us tell you about a few new doors that will open up to you once you graduate.

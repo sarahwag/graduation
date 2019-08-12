@@ -1,7 +1,7 @@
 ---
 title: "Making it Official"
 chapter: true
-weight: 2
+weight: 3
 ---
 
 ### Graduation
