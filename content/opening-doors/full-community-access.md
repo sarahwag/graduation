@@ -1,10 +1,10 @@
 ---
-title: "Full Community Access"
+title: "Exclusive Community Access"
 weight: 2
 ---
 
-As a graduate of the SJMD Course, you'll have access to the rest of the SJMD Community (beyond just the course category).
+As a graduate of the SJMD Course, if you join the [SJMD Community](https://community.sjmd.space), you'll have access to an exclusive area that's reserved solely for SJMD Grads.
 
-Once you're cleared, we have several new community areas waiting for you (like "In the News" and "(Un)Learning"), and as many new threads as you can create: Oh yeah, you'll be able to create threads!
+The Community has a lot of walled off areas, including one for students of the course, (Un)Learning, discussing topical news, and more. 
 
-Other features will also open up to you as a graduate and trusted community member. We'll leave you to figure those out.
+The SJMD Grads section is a space where you can chat with others knowing that they're in a similar place you are, having completed this course, wrestled with this topics, and committed several weeks to learning about social justice dogma. 

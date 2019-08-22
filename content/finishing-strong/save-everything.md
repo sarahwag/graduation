@@ -5,12 +5,12 @@ weight: 2
 
 The emails we sent you with the links to the Modules will be useful in the future if you ever want to revisit them. You can also just copy the following list to a text editor to save:
 
-1. [**Module 1**: https://dotcommunity.course.sjmd.space](https://dotcommunity.course.sjmd.space)
-2. [**Module 2**: https://barkslikeadogma.course.sjmd.space](https://barkslikeadogma.course.sjmd.space)
-3. [**Module 3**: https://cornerstones.course.sjmd.space](https://cornerstones.course.sjmd.space)
-4. [**Module 4**: https://acolytes.course.sjmd.space](https://acolytes.course.sjmd.space)
-5. [**Module 5**: https://thesespieces.course.sjmd.space](https://thesespieces.course.sjmd.space)
-6. [**Module 6**: https://irl.course.sjmd.space](https://irl.course.sjmd.space)
+1. [**Module 1**: https://1.course.sjmd.space](https://1.course.sjmd.space)
+2. [**Module 2**: https://2.course.sjmd.space](https://2.course.sjmd.space)
+3. [**Module 3**: https://3.course.sjmd.space](https://3.course.sjmd.space)
+4. [**Module 4**: https://4.course.sjmd.space](https://4.course.sjmd.space)
+5. [**Module 5**: https://5.course.sjmd.space](https://5.course.sjmd.space)
+6. [**Module 6**: https://6.course.sjmd.space](https://6.course.sjmd.space)
 
 **Note:** The Modules are all living projects, so there's a chance that when you revisit one it will have changed (different readings, tweaked topics, etc.). 
 
